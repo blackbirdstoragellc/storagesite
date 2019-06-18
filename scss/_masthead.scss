@@ -1,0 +1,44 @@
+header.masthead {
+  position: relative;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  h1 {
+    font-size: 2rem;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+  }
+  img {
+    max-height: 3rem;
+  }
+  @media (min-width: 768px) {
+    padding-top: 8rem;
+    padding-bottom: 12rem;
+    h1 {
+      font-size: 4rem;
+      -webkit-text-fill-color: white;
+      -webkit-text-stroke-color: black;
+      -webkit-text-stroke-width: 3px;
+    }
+    img {
+      max-height: 7rem;
+    }
+  }
+}
+
+header.masthead::after {
+  content: "";
+  background-color: $black;
+  background: url('../img/bg-masthead.jpg') no-repeat center center;
+  @include background-cover;
+  filter: brightness(20%);
+  filter: blur(3px);
+  -webkit-filter: blur(3px);
+  opacity: 0.8;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;
+}

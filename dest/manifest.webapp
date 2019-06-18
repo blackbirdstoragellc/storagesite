@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "name": "Blackbird Storage",
+  "description": "Blackbird Storage App signup",
+  "icons": {
+    "60": "favicons/firefox_app_60x60.png",
+    "128": "favicons/firefox_app_128x128.png",
+    "512": "favicons/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "Blackbird Storage LLC",
+    "url": "http://blackbirdstorage.com/"
+  }
+}
