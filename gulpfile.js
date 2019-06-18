@@ -6,6 +6,7 @@ const browsersync = require("browser-sync").create();
 const cleanCSS = require("gulp-clean-css");
 const del = require("del");
 const gulp = require("gulp");
+const deploy = require("gulp-gh-pages");
 const header = require("gulp-header");
 const merge = require("merge-stream");
 const plumber = require("gulp-plumber");
@@ -132,6 +133,11 @@ function watchFiles() {
 const vendor = gulp.series(clean, modules);
 const build = gulp.series(vendor, css);
 const watch = gulp.series(build, gulp.parallel(watchFiles, browserSync));
+
+gulp.task('deploy', function () {
+	return gulp.src("./dist/**/**")
+	.pipe(deploy())
+});
 
 // Export tasks
 exports.css = css;
