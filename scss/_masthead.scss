@@ -3,6 +3,19 @@ header.masthead {
   padding-top: 8rem;
   padding-bottom: 8rem;
   h1 {
+    font-size: 5rem;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+  }
+  h2 {
+    font-size: 3rem;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+  }
+  h3 {
+    padding-bottom: 4rem;
     font-size: 2rem;
     -webkit-text-fill-color: white;
     -webkit-text-stroke-color: black;
