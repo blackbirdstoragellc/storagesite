@@ -41,10 +41,23 @@ header.masthead img {
     padding-bottom: 12rem;
   }
   header.masthead h1 {
+    font-size: 10rem;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
+  }
+  header.masthead h2 {
     font-size: 4rem;
     -webkit-text-fill-color: white;
     -webkit-text-stroke-color: black;
     -webkit-text-stroke-width: 3px;
+  }
+  header.masthead h3 {
+    padding-bottom: 4rem;
+    font-size: 3rem;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 2px;
   }
   header.masthead img {
     max-height: 7rem;

@@ -1,7 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85353e35-fb99-4b57-bd0e-65571c0ec8d4" name="Default Changelist" comment="" />
+    <list default="true" id="85353e35-fb99-4b57-bd0e-65571c0ec8d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gmu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/BasicPack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/DeskChair.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Guitar.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/LargeBox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/SmallBox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Sofa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/StandardPack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/SuperPack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/WardrobeBox.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg-masthead-gmu.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/blackbird.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dss.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/landing-page.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/landing-page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/landing-page.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/landing-page.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/android-chrome-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/android-chrome-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/android-chrome-192x192.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/android-chrome-192x192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/android-chrome-256x256.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/android-chrome-256x256.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/android-chrome-36x36.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/android-chrome-36x36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/android-chrome-384x384.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/android-chrome-384x384.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/android-chrome-48x48.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/android-chrome-48x48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/android-chrome-512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/android-chrome-512x512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/android-chrome-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/android-chrome-72x72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/android-chrome-96x96.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/android-chrome-96x96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-icon-1024x1024.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-icon-1024x1024.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-icon-114x114.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-icon-114x114.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-icon-120x120.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-icon-120x120.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-icon-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-icon-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-icon-152x152.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-icon-152x152.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-icon-167x167.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-icon-167x167.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-icon-180x180.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-icon-180x180.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-icon-57x57.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-icon-57x57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-icon-60x60.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-icon-60x60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-icon-72x72.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-icon-72x72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-icon-76x76.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-icon-76x76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-icon-precomposed.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-icon-precomposed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-startup-image-1182x2208.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-startup-image-1182x2208.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-startup-image-1242x2148.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-startup-image-1242x2148.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-startup-image-1496x2048.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-startup-image-1496x2048.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-startup-image-1536x2008.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-startup-image-1536x2008.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-startup-image-320x460.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-startup-image-320x460.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-startup-image-640x1096.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-startup-image-640x1096.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-startup-image-640x920.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-startup-image-640x920.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-startup-image-748x1024.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-startup-image-748x1024.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-startup-image-750x1294.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-startup-image-750x1294.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/apple-touch-startup-image-768x1004.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/apple-touch-startup-image-768x1004.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/coast-228x228.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/coast-228x228.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/favicon-16x16.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/favicon-16x16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/favicon-32x32.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/favicon-32x32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/dest/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/firefox_app_128x128.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/firefox_app_128x128.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/firefox_app_512x512.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/firefox_app_512x512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/firefox_app_60x60.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/firefox_app_60x60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/dest/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/manifest.webapp" beforeDir="false" afterPath="$PROJECT_DIR$/dest/manifest.webapp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/mstile-144x144.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/mstile-144x144.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/mstile-150x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/mstile-150x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/mstile-310x150.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/mstile-310x150.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/mstile-310x310.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/mstile-310x310.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/mstile-70x70.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/mstile-70x70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dest/yandex-browser-50x50.png" beforeDir="false" afterPath="$PROJECT_DIR$/dest/yandex-browser-50x50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/BlackbirdClear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-masthead-orig.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-showcase-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-showcase-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-showcase-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_masthead.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_masthead.scss" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,17 +86,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="221" column="33" selection-start-line="221" selection-start-column="33" selection-end-line="221" selection-end-column="33" />
+            <state relative-caret-position="1360">
+              <caret line="80" column="54" selection-start-line="80" selection-start-column="54" selection-end-line="80" selection-end-column="54" />
               <folding>
-                <element signature="e#9892#9898#1" expanded="true" />
-                <element signature="e#10043#10049#1" expanded="true" />
-                <element signature="e#10199#10205#1" expanded="true" />
-                <element signature="e#10383#10389#0" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/landing-page.scss">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/_variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="23" column="3" selection-start-line="23" selection-end-line="23" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/_testimonials.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -31,26 +129,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/_showcase.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-296">
+            <state relative-caret-position="289">
               <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scss/_variables.scss">
+        <entry file="file://$PROJECT_DIR$/gmu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-end-line="23" selection-end-column="6" />
+            <state relative-caret-position="170">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+            <state relative-caret-position="282">
+              <caret line="105" column="30" lean-forward="true" selection-start-line="105" selection-start-column="30" selection-end-line="105" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -58,8 +156,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/_masthead.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="42" selection-end-column="14" />
+            <state relative-caret-position="95">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -73,6 +171,11 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/_global.scss">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -82,18 +185,24 @@
       <find>primary</find>
       <find>danger</find>
       <find>text</find>
+      <find>black</find>
+      <find>blackbird</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/landing-page.css" />
         <option value="$PROJECT_DIR$/scss/_icons.scss" />
-        <option value="$PROJECT_DIR$/scss/_masthead.scss" />
         <option value="$PROJECT_DIR$/scss/_call-to-action.scss" />
-        <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/scss/_showcase.scss" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/scss/_masthead.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/gmu.html" />
       </list>
     </option>
   </component>
@@ -103,44 +212,29 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="blackbird" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackbird" type="462c0819:PsiDirectoryNode" />
+              <item name="dss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dss" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="blackbird" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackbird" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackbird" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackbird" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackbird" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackbird" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blackbird" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blackbird" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="dss" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dss" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,6 +243,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DevUser\WebstormProjects\dss" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -186,11 +285,19 @@
       <updated>1559852554571</updated>
       <workItem from="1559852555703" duration="4667000" />
       <workItem from="1559916871365" duration="11906000" />
+      <workItem from="1560870860657" duration="599000" />
+      <workItem from="1562532381169" duration="975000" />
+      <workItem from="1565296368323" duration="1488000" />
+      <workItem from="1565988473609" duration="1820000" />
+      <workItem from="1567023814660" duration="138000" />
+      <workItem from="1567023991057" duration="3224000" />
+      <workItem from="1567078548329" duration="4950000" />
+      <workItem from="1567099036331" duration="2222000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16573000" />
+    <option name="totallyTimeSpent" value="31989000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -212,7 +319,7 @@
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -239,31 +346,8 @@
     <entry file="file://$PROJECT_DIR$/scss/_footer.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_global.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/_mixins.scss">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_testimonials.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/landing-page.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="391">
-            <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/_icons.scss">
       <provider selected="true" editor-type-id="text-editor">
@@ -276,20 +360,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-548">
           <caret line="28" column="14" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_masthead.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="37" column="2" selection-start-line="37" selection-start-column="2" selection-end-line="42" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_call-to-action.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -311,43 +381,109 @@
     <entry file="file://$PROJECT_DIR$/dest/android-chrome-512x512.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/browserconfig.xml">
+    <entry file="file://$PROJECT_DIR$/browserconfig.xml" />
+    <entry file="file://$PROJECT_DIR$/dest/index.html" />
+    <entry file="file://$PROJECT_DIR$/dest/apple-touch-startup-image-1182x2208.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/manifest.webapp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/dest/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/dest/android-chrome-384x384.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="86" column="26" selection-start-line="86" selection-start-column="26" selection-end-line="86" selection-end-column="26" />
+    <entry file="file://$PROJECT_DIR$/dest/android-chrome-48x48.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/Diamond.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/firefox_app_60x60.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/favicon-16x16.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="391">
+            <caret line="23" column="48" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dest/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_masthead.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_global.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_call-to-action.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/landing-page.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/scss/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-end-line="23" selection-end-column="6" />
+        <state relative-caret-position="265">
+          <caret line="23" column="3" selection-start-line="23" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_testimonials.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/_showcase.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-296">
+        <state relative-caret-position="289">
           <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="221" column="33" selection-start-line="221" selection-start-column="33" selection-end-line="221" selection-end-column="33" />
+        <state relative-caret-position="1360">
+          <caret line="80" column="54" selection-start-line="80" selection-start-column="54" selection-end-line="80" selection-end-column="54" />
           <folding>
-            <element signature="e#9892#9898#1" expanded="true" />
-            <element signature="e#10043#10049#1" expanded="true" />
-            <element signature="e#10199#10205#1" expanded="true" />
-            <element signature="e#10383#10389#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="105" column="30" lean-forward="true" selection-start-line="105" selection-start-column="30" selection-end-line="105" selection-end-column="30" />
         </state>
       </provider>
     </entry>

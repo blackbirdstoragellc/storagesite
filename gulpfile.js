@@ -71,17 +71,17 @@ function modules() {
   var simpleLineIconsCSS = gulp.src('./node_modules/simple-line-icons/css/**')
     .pipe(gulp.dest('./vendor/simple-line-icons/css'));
 
-  var favicon = gulp.src('./img/BlackbirdClear.png')
+  var favicon = gulp.src('./img/Diamond.png')
       .pipe(
           favicons({
-            appName: 'Blackbird Storage',
-            appShortName: 'Blackbird',
-            appDescription: 'Blackbird Storage App signup',
-            developerName: 'Blackbird Storage LLC',
-            developerURL: 'http://blackbirdstorage.com/',
+            appName: 'Diamond Storage Solutions',
+            appShortName: 'DSS',
+            appDescription: 'Diamond Storage Solutions Registration Site',
+            developerName: 'Diamond Storage Solutions LLC',
+            developerURL: 'http://DiamondStorageSolutions.com/',
             background: '#020307',
             path: 'favicons/',
-            url: 'http://blackbirdstorage.com/',
+            url: 'http://DiamondStorageSolutions.com/',
             display: 'standalone',
             orientation: 'portrait',
             scope: '/',
