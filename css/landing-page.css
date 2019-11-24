@@ -98,8 +98,12 @@ header.masthead::after {
   }
 }
 
-section.pricing {
+section.gmu {
   background: #28a745;
+}
+
+section.vt {
+  background: #861F41;
 }
 
 .pricing .card {
@@ -150,11 +154,77 @@ section.pricing {
   transition: all 0.2s;
 }
 
+i.gmu {
+  color: #28a745;
+}
+
+a.gmu {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.gmu {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.gmu:hover,
+button.gmu:focus,
+button.gmu:active,
+button.gmu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+a.gmu:hover,
+a.gmu:focus,
+a.gmu:active,
+a.gmu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+i.vt {
+  color: #E87722;
+}
+
+a.vt {
+  color: #FFFFFF;
+  background-color: #E87722;
+  border-color: #E87722;
+}
+
+button.vt {
+  color: #FFFFFF;
+  background-color: #E87722;
+  border-color: #E87722;
+}
+
+button.vt:hover,
+button.vt:focus,
+button.vt:active,
+button.vt.active {
+  color: #FFFFFF;
+  background-color: #e85927;
+  border-color: #e85927;
+}
+
+a.vt:hover,
+a.vt:focus,
+a.vt:active,
+a.vt.active {
+  color: #FFFFFF;
+  background-color: #e85927;
+  border-color: #e85927;
+}
+
 /* Hover Effects on Card */
 @media (min-width: 992px) {
   .pricing .card:hover {
-    margin-top: -.25rem;
-    margin-bottom: .25rem;
     -webkit-box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
     box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
   }
