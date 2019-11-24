@@ -67,10 +67,17 @@ header.masthead img {
   }
 }
 
+header.masthead.gmu::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+header.masthead.vt::after {
+  background: url("../img/vt.jpg") no-repeat center center;
+}
+
 header.masthead::after {
   content: "";
   background-color: #000;
-  background: url("../img/bg-masthead.jpg") no-repeat center center;
   background-size: cover;
   -webkit-filter: brightness(30%);
   filter: brightness(30%);
@@ -98,11 +105,11 @@ header.masthead::after {
   }
 }
 
-section.gmu {
+section.pricing.gmu {
   background: #28a745;
 }
 
-section.vt {
+section.pricing.vt {
   background: #861F41;
 }
 
@@ -283,10 +290,17 @@ a.vt.active {
   -webkit-text-fill-color: white;
 }
 
+.call-to-action.gmu::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+section.call-to-action.vt::after {
+  background: url("../img/vt.jpg") no-repeat center center;
+}
+
 .call-to-action::after {
   content: "";
   background-color: #343a40;
-  background: url("../img/bg-masthead.jpg") no-repeat center center;
   background-size: cover;
   -webkit-filter: brightness(30%);
   filter: brightness(30%);
