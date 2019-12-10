@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Simple Summer Storage for Students">
+    <meta name="author" content="Diamond Storage Solutions">
+
+    <title>Diamond Storage Solutions</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet"
+          type="text/css">
+
+    <!-- Custom styles for this template -->
+    <link href="css/landing-page.min.css" rel="stylesheet">
+
+    <link rel='icon' href='dest/favicon.ico' type='image/x-icon' sizes="16x16">
+
+</head>
+
+<body>
+<a name="home"></a>
+<!-- Navigation -->
+<nav class="navbar navbar-light bg-light static-top">
+    <div class="container">
+        <div class="row col-12">
+            <div class="col-md-3 col-lg-8">
+                &nbsp;
+            </div>
+            <div class="col-md-2 col-lg-1">
+                <a class="navbar-brand" id="home_btn">Home</a>
+            </div>
+            <div class="col-md-2 col-lg-1">
+                <a class="navbar-brand" id="pricing_btn">Pricing</a>
+            </div>
+            <div class="col-md-5 col-lg-1">
+                <a class="navbar-brand" id="blog_btn">Blog</a>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<section class="pricing themedElement py-5">
+    <div class="container">
+        <div class="row">
+            <!-- Small Box -->
+            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            </div>
+            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                <div class="card mb-5">
+                    <div class="card-body">
+                        <h5 class="card-title text-muted text-uppercase text-center">Secure Your Reservation</h5>
+                        <h6 class="card-price text-center">$40<span class="period"></span></h6>
+                        <hr>
+                        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                            <input type="hidden" name="cmd" value="_s-xclick">
+                            <input type="hidden" name="hosted_button_id" value="XHH8XVXFAT7JU">
+                            <table align="center">
+                                <tr>
+                                    <td><input type="hidden" name="on0" value="School">Select your School: </td>
+                                </tr>
+                                <tr align="center">
+                                    <td><select name="os0" id="dynamic_select">
+                                        <option value="gmu">George Mason University - GMU</option>
+                                        <option value="vt">Virginia Tech - VT</option>
+                                    </select></td>
+                                </tr>
+                                <tr align="center">
+                                    <td>
+                                        <hr>
+                                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit"
+                                       alt="PayPal - The safer, easier way to pay online!">
+                                <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+                                    </td>
+                                </tr>
+                            </table>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Footer -->
+<footer class="footer bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 h-100 text-center text-lg-left my-auto">
+                <ul class="list-inline mb-2">
+                    <li class="list-inline-item">
+                        <a href="#">About</a>
+                    </li>
+                    <li class="list-inline-item">&sdot;</li>
+                    <li class="list-inline-item">
+                        <a href="#">Contact</a>
+                    </li>
+                    <li class="list-inline-item">&sdot;</li>
+                    <li class="list-inline-item">
+                        <a href="#">Terms of Use</a>
+                    </li>
+                    <li class="list-inline-item">&sdot;</li>
+                    <li class="list-inline-item">
+                        <a href="#">Privacy Policy</a>
+                    </li>
+                </ul>
+                <p class="text-muted small mb-4 mb-lg-0">&copy; Diamond Storage Solutions 2019. All Rights Reserved.</p>
+            </div>
+            <div class="col-lg-6 h-100 text-center text-lg-right my-auto">
+                <ul class="list-inline mb-0">
+                    <li class="list-inline-item mr-3">
+                        <a href="#">
+                            <i class="fab fa-facebook fa-2x fa-fw"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item mr-3">
+                        <a href="#">
+                            <i class="fab fa-twitter-square fa-2x fa-fw"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="#">
+                            <i class="fab fa-instagram fa-2x fa-fw"></i>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="styleCreator.js"></script>
+
+<script>
+    $(function(){
+        // bind change event to select
+        $('#dynamic_select').on('change', function () {
+            var url = "signup.html?school=" + $(this).val(); // get selected value
+            if (url) { // require a URL
+                window.location = url; // redirect
+            }
+            return false;
+        });
+    });
+</script>
+
+</body>
+
+</html>
