@@ -2,7 +2,7 @@ const urlParams = new URLSearchParams(window.location.search);
 const school = urlParams.get('school');
 let theme = 'gmu';
 
-switch(['gmu', 'uva', 'jmu', 'umw', 'vt', 'ru'].indexOf(school)) {
+switch(['umw', 'uva', 'jmu', 'gu', 'mu', 'gwu', 'gmu', 'su', 'umd'].indexOf(school)) {
     case 0:
         theme = 'gmu';
         break;
@@ -16,9 +16,18 @@ switch(['gmu', 'uva', 'jmu', 'umw', 'vt', 'ru'].indexOf(school)) {
         theme = 'gmu';
         break;
     case 4:
-        theme = 'vt';
+        theme = 'gmu';
         break;
     case 5:
+        theme = 'gmu';
+        break;
+    case 6:
+        theme = 'gmu';
+        break;
+    case 7:
+        theme = 'gmu';
+        break;
+    case 8:
         theme = 'gmu';
         break;
     default:
