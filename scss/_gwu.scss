@@ -3,23 +3,23 @@ header.masthead.gwu::after {
 }
 
 section.pricing.gwu {
-  background: $green;
+  background: #033C5A;
 }
 
 i.gwu {
-  color: $green;
+  color: #033C5A;
 }
 
 a.gwu {
   color: #FFFFFF;
-  background-color: $green;
-  border-color: $green;
+  background-color: #AA9868;
+  border-color: #AA9868;
 }
 
 button.gwu {
   color: #FFFFFF;
-  background-color: $green;
-  border-color: $green;
+  background-color: #AA9868;
+  border-color: #AA9868;
 }
 
 button.gwu:hover,
@@ -27,8 +27,8 @@ button.gwu:focus,
 button.gwu:active,
 button.gwu.active {
   color: #FFFFFF;
-  background-color: #218838;
-  border-color: #1e7e34;
+  background-color: #033C5A;
+  border-color: #033C5A;
 }
 
 a.gwu:hover,
@@ -36,8 +36,8 @@ a.gwu:focus,
 a.gwu:active,
 a.gwu.active {
   color: #FFFFFF;
-  background-color: #218838;
-  border-color: #1e7e34;
+  background-color: #033C5A;
+  border-color: #033C5A;
 }
 
 .call-to-action.gwu::after{

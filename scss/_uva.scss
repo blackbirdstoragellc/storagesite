@@ -3,23 +3,23 @@ header.masthead.uva::after {
 }
 
 section.pricing.uva {
-  background: $green;
+  background: #141E3C;
 }
 
 i.uva {
-  color: $green;
+  color: #141E3C;
 }
 
 a.uva {
   color: #FFFFFF;
-  background-color: $green;
-  border-color: $green;
+  background-color: #E57200;
+  border-color: #E57200;
 }
 
 button.uva {
   color: #FFFFFF;
-  background-color: $green;
-  border-color: $green;
+  background-color: #E57200;
+  border-color: #E57200;
 }
 
 button.uva:hover,
@@ -27,8 +27,8 @@ button.uva:focus,
 button.uva:active,
 button.uva.active {
   color: #FFFFFF;
-  background-color: #218838;
-  border-color: #1e7e34;
+  background-color: #141E3C;
+  border-color: #141E3C;
 }
 
 a.uva:hover,
@@ -36,8 +36,8 @@ a.uva:focus,
 a.uva:active,
 a.uva.active {
   color: #FFFFFF;
-  background-color: #218838;
-  border-color: #1e7e34;
+  background-color: #141E3C;
+  border-color: #141E3C;
 }
 
 .call-to-action.uva::after{

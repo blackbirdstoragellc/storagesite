@@ -28,7 +28,7 @@ switch(['umw', 'uva', 'jmu', 'gu', 'mu', 'gwu', 'gmu', 'su', 'umd'].indexOf(scho
         theme = 'su';
         break;
     case 8:
-        theme = 'umw';
+        theme = 'umd';
         break;
     default:
         theme = 'gmu';

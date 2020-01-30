@@ -3,23 +3,23 @@ header.masthead.jmu::after {
 }
 
 section.pricing.jmu {
-  background: $green;
+  background: #450084;
 }
 
 i.jmu {
-  color: $green;
+  color: #450084;
 }
 
 a.jmu {
-  color: #FFFFFF;
-  background-color: $green;
-  border-color: $green;
+  color: #000000;
+  background-color: #dfd2aa;
+  border-color: #dfd2aa;
 }
 
 button.jmu {
   color: #FFFFFF;
-  background-color: $green;
-  border-color: $green;
+  background-color: #450084;
+  border-color: #450084;
 }
 
 button.jmu:hover,
@@ -27,8 +27,8 @@ button.jmu:focus,
 button.jmu:active,
 button.jmu.active {
   color: #FFFFFF;
-  background-color: #218838;
-  border-color: #1e7e34;
+  background-color: #450084;
+  border-color: #450084;
 }
 
 a.jmu:hover,
@@ -36,8 +36,8 @@ a.jmu:focus,
 a.jmu:active,
 a.jmu.active {
   color: #FFFFFF;
-  background-color: #218838;
-  border-color: #1e7e34;
+  background-color: #450084;
+  border-color: #450084;
 }
 
 .call-to-action.jmu::after{

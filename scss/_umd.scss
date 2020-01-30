@@ -3,41 +3,41 @@ header.masthead.umd::after {
 }
 
 section.pricing.umd {
-  background: $green;
+  background: #E03A3E;
 }
 
 i.umd {
-  color: $green;
+  color: #E03A3E;
 }
 
 a.umd {
-  color: #FFFFFF;
-  background-color: $green;
-  border-color: $green;
+  color: #000000;
+  background-color: #FFD520;
+  border-color: #FFD520;
 }
 
 button.umd {
-  color: #FFFFFF;
-  background-color: $green;
-  border-color: $green;
+  color: #000000;
+  background-color: #FFD520;
+  border-color: #FFD520;
 }
 
 button.umd:hover,
 button.umd:focus,
 button.umd:active,
 button.umd.active {
-  color: #FFFFFF;
-  background-color: #218838;
-  border-color: #1e7e34;
+  color: #000000;
+  background-color: #EEC410;
+  border-color: #DDB300;
 }
 
 a.umd:hover,
 a.umd:focus,
 a.umd:active,
 a.umd.active {
-  color: #FFFFFF;
-  background-color: #218838;
-  border-color: #1e7e34;
+  color: #000000;
+  background-color: #EEC410;
+  border-color: #DDB300;
 }
 
 .call-to-action.umd::after{

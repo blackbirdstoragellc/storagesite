@@ -3,23 +3,23 @@ header.masthead.mu::after {
 }
 
 section.pricing.mu {
-  background: $green;
+  background: #003c72;
 }
 
 i.mu {
-  color: $green;
+  color: #003c72;
 }
 
 a.mu {
   color: #FFFFFF;
-  background-color: $green;
-  border-color: $green;
+  background-color: #003c72;
+  border-color: #003c72;
 }
 
 button.mu {
   color: #FFFFFF;
-  background-color: $green;
-  border-color: $green;
+  background-color: #003c72;
+  border-color: #003c72;
 }
 
 button.mu:hover,
@@ -27,8 +27,8 @@ button.mu:focus,
 button.mu:active,
 button.mu.active {
   color: #FFFFFF;
-  background-color: #218838;
-  border-color: #1e7e34;
+  background-color: #114d83;
+  border-color: #002b61;
 }
 
 a.mu:hover,
@@ -36,8 +36,8 @@ a.mu:focus,
 a.mu:active,
 a.mu.active {
   color: #FFFFFF;
-  background-color: #218838;
-  border-color: #1e7e34;
+  background-color: #114d83;
+  border-color: #002b61;
 }
 
 .call-to-action.mu::after{
