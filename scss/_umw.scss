@@ -1,0 +1,45 @@
+header.masthead.umw::after {
+  background: url('../img/gmu.jpg') no-repeat center center;
+}
+
+section.pricing.umw {
+  background: $green;
+}
+
+i.umw {
+  color: $green;
+}
+
+a.umw {
+  color: #FFFFFF;
+  background-color: $green;
+  border-color: $green;
+}
+
+button.umw {
+  color: #FFFFFF;
+  background-color: $green;
+  border-color: $green;
+}
+
+button.umw:hover,
+button.umw:focus,
+button.umw:active,
+button.umw.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+a.umw:hover,
+a.umw:focus,
+a.umw:active,
+a.umw.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.call-to-action.umw::after{
+  background: url('../img/gmu.jpg') no-repeat center center;
+}

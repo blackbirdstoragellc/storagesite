@@ -1,0 +1,45 @@
+header.masthead.mu::after {
+  background: url('../img/gmu.jpg') no-repeat center center;
+}
+
+section.pricing.mu {
+  background: $green;
+}
+
+i.mu {
+  color: $green;
+}
+
+a.mu {
+  color: #FFFFFF;
+  background-color: $green;
+  border-color: $green;
+}
+
+button.mu {
+  color: #FFFFFF;
+  background-color: $green;
+  border-color: $green;
+}
+
+button.mu:hover,
+button.mu:focus,
+button.mu:active,
+button.mu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+a.mu:hover,
+a.mu:focus,
+a.mu:active,
+a.mu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.call-to-action.mu::after{
+  background: url('../img/gmu.jpg') no-repeat center center;
+}

@@ -40,14 +40,6 @@ header.masthead {
   }
 }
 
-header.masthead.gmu::after {
-  background: url('../img/gmu.jpg') no-repeat center center;
-}
-
-header.masthead.vt::after {
-  background: url('../img/vt.jpg') no-repeat center center;
-}
-
 header.masthead::after {
   content: "";
   background-color: $black;

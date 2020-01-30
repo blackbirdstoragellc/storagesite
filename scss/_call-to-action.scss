@@ -7,14 +7,6 @@
   }
 }
 
-.call-to-action.gmu::after{
-  background: url('../img/gmu.jpg') no-repeat center center;
-}
-
-section.call-to-action.vt::after{
-  background: url('../img/vt.jpg') no-repeat center center;
-}
-
 .call-to-action::after{
   content: "";
   background-color: $gray-800;

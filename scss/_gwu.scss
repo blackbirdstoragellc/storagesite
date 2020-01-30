@@ -1,0 +1,45 @@
+header.masthead.gwu::after {
+  background: url('../img/gmu.jpg') no-repeat center center;
+}
+
+section.pricing.gwu {
+  background: $green;
+}
+
+i.gwu {
+  color: $green;
+}
+
+a.gwu {
+  color: #FFFFFF;
+  background-color: $green;
+  border-color: $green;
+}
+
+button.gwu {
+  color: #FFFFFF;
+  background-color: $green;
+  border-color: $green;
+}
+
+button.gwu:hover,
+button.gwu:focus,
+button.gwu:active,
+button.gwu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+a.gwu:hover,
+a.gwu:focus,
+a.gwu:active,
+a.gwu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.call-to-action.gwu::after{
+  background: url('../img/gmu.jpg') no-repeat center center;
+}

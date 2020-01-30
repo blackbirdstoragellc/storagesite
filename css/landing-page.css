@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Landing Page v5.0.5 (https://github.com/blackbirdstoragellc/storagesite/)
- * Copyright 2013-2019 Mark
+ * Copyright 2013-2020 Mark
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/master/LICENSE)
  */
 
@@ -67,14 +67,6 @@ header.masthead img {
   }
 }
 
-header.masthead.gmu::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
-}
-
-header.masthead.vt::after {
-  background: url("../img/vt.jpg") no-repeat center center;
-}
-
 header.masthead::after {
   content: "";
   background-color: #000;
@@ -103,14 +95,6 @@ header.masthead::after {
   .showcase .showcase-text {
     padding: 7rem;
   }
-}
-
-section.pricing.gmu {
-  background: #28a745;
-}
-
-section.pricing.vt {
-  background: #861F41;
 }
 
 .pricing .card {
@@ -148,74 +132,6 @@ section.pricing.vt {
 
 .pricing .text-muted {
   opacity: 0.7;
-}
-
-i.gmu {
-  color: #28a745;
-}
-
-a.gmu {
-  color: #FFFFFF;
-  background-color: #28a745;
-  border-color: #28a745;
-}
-
-button.gmu {
-  color: #FFFFFF;
-  background-color: #28a745;
-  border-color: #28a745;
-}
-
-button.gmu:hover,
-button.gmu:focus,
-button.gmu:active,
-button.gmu.active {
-  color: #FFFFFF;
-  background-color: #218838;
-  border-color: #1e7e34;
-}
-
-a.gmu:hover,
-a.gmu:focus,
-a.gmu:active,
-a.gmu.active {
-  color: #FFFFFF;
-  background-color: #218838;
-  border-color: #1e7e34;
-}
-
-i.vt {
-  color: #E87722;
-}
-
-a.vt {
-  color: #FFFFFF;
-  background-color: #E87722;
-  border-color: #E87722;
-}
-
-button.vt {
-  color: #FFFFFF;
-  background-color: #E87722;
-  border-color: #E87722;
-}
-
-button.vt:hover,
-button.vt:focus,
-button.vt:active,
-button.vt.active {
-  color: #FFFFFF;
-  background-color: #e85927;
-  border-color: #e85927;
-}
-
-a.vt:hover,
-a.vt:focus,
-a.vt:active,
-a.vt.active {
-  color: #FFFFFF;
-  background-color: #e85927;
-  border-color: #e85927;
 }
 
 /* Hover Effects on Card */
@@ -279,14 +195,6 @@ a.vt.active {
   -webkit-text-fill-color: white;
 }
 
-.call-to-action.gmu::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
-}
-
-section.call-to-action.vt::after {
-  background: url("../img/vt.jpg") no-repeat center center;
-}
-
 .call-to-action::after {
   content: "";
   background-color: #343a40;
@@ -305,4 +213,418 @@ section.call-to-action.vt::after {
 footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
+}
+
+header.masthead.umw::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+section.pricing.umw {
+  background: #28a745;
+}
+
+i.umw {
+  color: #28a745;
+}
+
+a.umw {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.umw {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.umw:hover,
+button.umw:focus,
+button.umw:active,
+button.umw.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+a.umw:hover,
+a.umw:focus,
+a.umw:active,
+a.umw.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.call-to-action.umw::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+header.masthead.uva::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+section.pricing.uva {
+  background: #28a745;
+}
+
+i.uva {
+  color: #28a745;
+}
+
+a.uva {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.uva {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.uva:hover,
+button.uva:focus,
+button.uva:active,
+button.uva.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+a.uva:hover,
+a.uva:focus,
+a.uva:active,
+a.uva.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.call-to-action.uva::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+header.masthead.jmu::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+section.pricing.jmu {
+  background: #28a745;
+}
+
+i.jmu {
+  color: #28a745;
+}
+
+a.jmu {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.jmu {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.jmu:hover,
+button.jmu:focus,
+button.jmu:active,
+button.jmu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+a.jmu:hover,
+a.jmu:focus,
+a.jmu:active,
+a.jmu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.call-to-action.jmu::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+header.masthead.gu::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+section.pricing.gu {
+  background: #28a745;
+}
+
+i.gu {
+  color: #28a745;
+}
+
+a.gu {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.gu {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.gu:hover,
+button.gu:focus,
+button.gu:active,
+button.gu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+a.gu:hover,
+a.gu:focus,
+a.gu:active,
+a.gu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.call-to-action.gu::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+header.masthead.mu::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+section.pricing.mu {
+  background: #28a745;
+}
+
+i.mu {
+  color: #28a745;
+}
+
+a.mu {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.mu {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.mu:hover,
+button.mu:focus,
+button.mu:active,
+button.mu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+a.mu:hover,
+a.mu:focus,
+a.mu:active,
+a.mu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.call-to-action.mu::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+header.masthead.gwu::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+section.pricing.gwu {
+  background: #28a745;
+}
+
+i.gwu {
+  color: #28a745;
+}
+
+a.gwu {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.gwu {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.gwu:hover,
+button.gwu:focus,
+button.gwu:active,
+button.gwu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+a.gwu:hover,
+a.gwu:focus,
+a.gwu:active,
+a.gwu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.call-to-action.gwu::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+header.masthead.gmu::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+section.pricing.gmu {
+  background: #28a745;
+}
+
+i.gmu {
+  color: #28a745;
+}
+
+a.gmu {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.gmu {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.gmu:hover,
+button.gmu:focus,
+button.gmu:active,
+button.gmu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+a.gmu:hover,
+a.gmu:focus,
+a.gmu:active,
+a.gmu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.call-to-action.gmu::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+header.masthead.su::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+section.pricing.su {
+  background: #28a745;
+}
+
+i.su {
+  color: #28a745;
+}
+
+a.su {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.su {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.su:hover,
+button.su:focus,
+button.su:active,
+button.su.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+a.su:hover,
+a.su:focus,
+a.su:active,
+a.su.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.call-to-action.su::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+header.masthead.umd::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
+}
+
+section.pricing.umd {
+  background: #28a745;
+}
+
+i.umd {
+  color: #28a745;
+}
+
+a.umd {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.umd {
+  color: #FFFFFF;
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+button.umd:hover,
+button.umd:focus,
+button.umd:active,
+button.umd.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+a.umd:hover,
+a.umd:focus,
+a.umd:active,
+a.umd.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.call-to-action.umd::after {
+  background: url("../img/gmu.jpg") no-repeat center center;
 }

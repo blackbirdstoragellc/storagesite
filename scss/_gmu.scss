@@ -1,0 +1,45 @@
+header.masthead.gmu::after {
+  background: url('../img/gmu.jpg') no-repeat center center;
+}
+
+section.pricing.gmu {
+  background: $green;
+}
+
+i.gmu {
+  color: $green;
+}
+
+a.gmu {
+  color: #FFFFFF;
+  background-color: $green;
+  border-color: $green;
+}
+
+button.gmu {
+  color: #FFFFFF;
+  background-color: $green;
+  border-color: $green;
+}
+
+button.gmu:hover,
+button.gmu:focus,
+button.gmu:active,
+button.gmu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+a.gmu:hover,
+a.gmu:focus,
+a.gmu:active,
+a.gmu.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.call-to-action.gmu::after{
+  background: url('../img/gmu.jpg') no-repeat center center;
+}

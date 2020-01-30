@@ -4,31 +4,31 @@ let theme = 'gmu';
 
 switch(['umw', 'uva', 'jmu', 'gu', 'mu', 'gwu', 'gmu', 'su', 'umd'].indexOf(school)) {
     case 0:
-        theme = 'gmu';
+        theme = 'umw';
         break;
     case 1:
-        theme = 'gmu';
+        theme = 'uva';
         break;
     case 2:
-        theme = 'gmu';
+        theme = 'jmu';
         break;
     case 3:
-        theme = 'gmu';
+        theme = 'gu';
         break;
     case 4:
-        theme = 'gmu';
+        theme = 'mu';
         break;
     case 5:
-        theme = 'gmu';
+        theme = 'gwu';
         break;
     case 6:
         theme = 'gmu';
         break;
     case 7:
-        theme = 'gmu';
+        theme = 'su';
         break;
     case 8:
-        theme = 'gmu';
+        theme = 'umw';
         break;
     default:
         theme = 'gmu';

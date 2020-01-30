@@ -13,16 +13,6 @@
   }
 }
 
-section.pricing.gmu {
-  background: $green;
-}
-
-section.pricing.vt {
-  background: #861F41;
-}
-
-
-
 .pricing .card {
   border: none;
   border-radius: 1rem;
@@ -56,74 +46,6 @@ section.pricing.vt {
 
 .pricing .text-muted {
   opacity: 0.7;
-}
-
-i.gmu {
-  color: $green;
-}
-
-a.gmu {
-  color: #FFFFFF;
-  background-color: $green;
-  border-color: $green;
-}
-
-button.gmu {
-  color: #FFFFFF;
-  background-color: $green;
-  border-color: $green;
-}
-
-button.gmu:hover,
-button.gmu:focus,
-button.gmu:active,
-button.gmu.active {
-  color: #FFFFFF;
-  background-color: #218838;
-  border-color: #1e7e34;
-}
-
-a.gmu:hover,
-a.gmu:focus,
-a.gmu:active,
-a.gmu.active {
-  color: #FFFFFF;
-  background-color: #218838;
-  border-color: #1e7e34;
-}
-
-i.vt {
-  color: #E87722;
-}
-
-a.vt {
-  color: #FFFFFF;
-  background-color: #E87722;
-  border-color: #E87722;
-}
-
-button.vt {
-  color: #FFFFFF;
-  background-color: #E87722;
-  border-color: #E87722;
-}
-
-button.vt:hover,
-button.vt:focus,
-button.vt:active,
-button.vt.active {
-  color: #FFFFFF;
-  background-color: #e85927;
-  border-color: #e85927;
-}
-
-a.vt:hover,
-a.vt:focus,
-a.vt:active,
-a.vt.active {
-  color: #FFFFFF;
-  background-color: #e85927;
-  border-color: #e85927;
 }
 
 /* Hover Effects on Card */

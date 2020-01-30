@@ -1,0 +1,45 @@
+header.masthead.uva::after {
+  background: url('../img/gmu.jpg') no-repeat center center;
+}
+
+section.pricing.uva {
+  background: $green;
+}
+
+i.uva {
+  color: $green;
+}
+
+a.uva {
+  color: #FFFFFF;
+  background-color: $green;
+  border-color: $green;
+}
+
+button.uva {
+  color: #FFFFFF;
+  background-color: $green;
+  border-color: $green;
+}
+
+button.uva:hover,
+button.uva:focus,
+button.uva:active,
+button.uva.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+a.uva:hover,
+a.uva:focus,
+a.uva:active,
+a.uva.active {
+  color: #FFFFFF;
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+.call-to-action.uva::after{
+  background: url('../img/gmu.jpg') no-repeat center center;
+}
