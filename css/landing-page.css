@@ -496,23 +496,23 @@ header.masthead.gmu::after {
 }
 
 section.pricing.gmu {
-  background: #28a745;
+  background: #006633;
 }
 
 i.gmu {
-  color: #28a745;
+  color: #006633;
 }
 
 a.gmu {
   color: #FFFFFF;
-  background-color: #28a745;
-  border-color: #28a745;
+  background-color: #006633;
+  border-color: #006633;
 }
 
 button.gmu {
   color: #FFFFFF;
-  background-color: #28a745;
-  border-color: #28a745;
+  background-color: #006633;
+  border-color: #006633;
 }
 
 button.gmu:hover,
@@ -520,8 +520,8 @@ button.gmu:focus,
 button.gmu:active,
 button.gmu.active {
   color: #FFFFFF;
-  background-color: #218838;
-  border-color: #1e7e34;
+  background-color: #117744;
+  border-color: #005522;
 }
 
 a.gmu:hover,
@@ -529,8 +529,8 @@ a.gmu:focus,
 a.gmu:active,
 a.gmu.active {
   color: #FFFFFF;
-  background-color: #218838;
-  border-color: #1e7e34;
+  background-color: #117744;
+  border-color: #005522;
 }
 
 .call-to-action.gmu::after {
