@@ -216,7 +216,7 @@ footer.footer {
 }
 
 header.masthead.umw::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
+  background: url("../img/umw.jpg") no-repeat center center;
 }
 
 section.pricing.umw {
@@ -258,11 +258,11 @@ a.umw.active {
 }
 
 .call-to-action.umw::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
+  background: url("../img/umw.jpg") no-repeat center center;
 }
 
 header.masthead.uva::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
+  background: url("../img/uva.jpg") no-repeat center center;
 }
 
 section.pricing.uva {
@@ -304,11 +304,11 @@ a.uva.active {
 }
 
 .call-to-action.uva::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
+  background: url("../img/uva.jpg") no-repeat center center;
 }
 
 header.masthead.jmu::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
+  background: url("../img/jmu.jpg") no-repeat center center;
 }
 
 section.pricing.jmu {
@@ -350,11 +350,11 @@ a.jmu.active {
 }
 
 .call-to-action.jmu::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
+  background: url("../img/jmu.jpg") no-repeat center center;
 }
 
 header.masthead.gu::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
+  background: url("../img/gu.jpg") no-repeat center center;
 }
 
 section.pricing.gu {
@@ -396,11 +396,11 @@ a.gu.active {
 }
 
 .call-to-action.gu::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
+  background: url("../img/gu.jpg") no-repeat center center;
 }
 
 header.masthead.mu::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
+  background: url("../img/mu.jpeg") no-repeat center center;
 }
 
 section.pricing.mu {
@@ -442,11 +442,11 @@ a.mu.active {
 }
 
 .call-to-action.mu::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
+  background: url("../img/mu.jpeg") no-repeat center center;
 }
 
 header.masthead.gwu::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
+  background: url("../img/gwu.jpg") no-repeat center center;
 }
 
 section.pricing.gwu {
@@ -488,7 +488,7 @@ a.gwu.active {
 }
 
 .call-to-action.gwu::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
+  background: url("../img/gwu.jpg") no-repeat center center;
 }
 
 header.masthead.gmu::after {
@@ -538,7 +538,7 @@ a.gmu.active {
 }
 
 header.masthead.su::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
+  background: url("../img/su.jpg") no-repeat center center;
 }
 
 section.pricing.su {
@@ -580,11 +580,11 @@ a.su.active {
 }
 
 .call-to-action.su::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
+  background: url("../img/su.jpg") no-repeat center center;
 }
 
 header.masthead.umd::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
+  background: url("../img/umd.jpg") no-repeat center center;
 }
 
 section.pricing.umd {
@@ -626,5 +626,5 @@ a.umd.active {
 }
 
 .call-to-action.umd::after {
-  background: url("../img/gmu.jpg") no-repeat center center;
+  background: url("../img/umd.jpg") no-repeat center center;
 }
