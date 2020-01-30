@@ -32,18 +32,34 @@
 <nav class="navbar navbar-light bg-light static-top">
     <div class="container">
         <div class="row col-12">
-            <div class="col-md-3 col-lg-8">
+            <div class="col-md-3 col-lg-7">
                 <a class="btn reserve_btn themedElement">Reserve Now</a>
             </div>
             <div class="col-md-2 col-lg-1">
-                <a class="navbar-brand" id="home_btn">Home</a>
+                <a id="home_btn"><button class="btn btn-light" type="button">Home</button></a>
             </div>
             <div class="col-md-2 col-lg-1">
-                <a class="navbar-brand" id="pricing_btn">Pricing</a>
+                <a id="pricing_btn"><button class="btn btn-light" type="button">Pricing</button></a>
             </div>
             <div class="col-md-5 col-lg-1">
-                <a class="navbar-brand" id="blog_btn">Blog</a>
+                <a id="blog_btn"><button class="btn btn-light" type="button">Blog</button></a>
             </div>
+            <div class="dropdown col-md-5 col-lg-1">
+            <button class="btn btn-light dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Schools We Serve
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <a class="dropdown-item" href="index.html?school=umw">University of Mary Washington</a>
+                <a class="dropdown-item" href="index.html?school=uva">University of Virginia</a>
+                <a class="dropdown-item" href="index.html?school=jmu">James Madison University</a>
+                <a class="dropdown-item" href="index.html?school=gu">Georgetown University</a>
+                <a class="dropdown-item" href="index.html?school=mu">Marymount University</a>
+                <a class="dropdown-item" href="index.html?school=gwu">George Washington University</a>
+                <a class="dropdown-item" href="index.html?school=gmu">George Mason University</a>
+                <a class="dropdown-item" href="index.html?school=su">Shenandoah University</a>
+                <a class="dropdown-item" href="index.html?school=umd">University of Maryland</a>
+            </div>
+        </div>
         </div>
     </div>
 </nav>
@@ -339,9 +355,9 @@
                     <h5 class="card-title text-center text-primary">
                         Returned Box Discount
                     </h5>
-                    <h6 class="text-center">$5/box</h6>
+                    <h6 class="text-center">$1/box</h6>
                     <p class="card-text">If you reduce waste by returning our boxes so we can reuse them, we will credit
-                        your account with a $5 discount per box.</p>
+                        your account with a $1 discount per box.</p>
                 </div>
             </div>
         </div>
@@ -376,8 +392,8 @@
                         Non-conformist Fee
                     </h5>
                     <h6 class="text-center">$90</h6>
-                    <p class="card-text">If you need to schedule a pickup or delivery date other than the scheduled date
-                        for your school a $90 fee will be applied.</p>
+                    <p class="card-text">If you need to schedule a pickup or delivery date other than one of the
+                        scheduled dates for your school a $90 fee will be applied.</p>
                 </div>
             </div>
         </div>

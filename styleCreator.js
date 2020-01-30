@@ -41,8 +41,10 @@ switch(['umw', 'uva', 'jmu', 'gu', 'mu', 'gwu', 'gmu', 'su', 'umd'].indexOf(scho
         innerText = 'Serving University of Maryland';
         break;
     default:
-        theme = 'gmu';
-        innerText = 'Serving George Mason University';
+        let url = "index.html?school=gmu"; // default to gmu
+        if (url) {
+            window.location = url; // redirect
+        }
 }
 
 

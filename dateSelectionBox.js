@@ -98,5 +98,4 @@ switch(['umw', 'uva', 'jmu', 'gu', 'mu', 'gwu', 'gmu', 'su', 'umd'].indexOf(scho
         dateSelectBox.options[dateSelectBox.options.length] = new Option('Thursday 5/21/2020 All Day', 'umd-05212020');
         dateSelectBox.options[dateSelectBox.options.length] = new Option('Custom Date ($90 fee)', 'custom');
         break;
-    default:
 }
