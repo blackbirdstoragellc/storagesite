@@ -64,6 +64,11 @@ if (home_btn != null) {
     home_btn.href="index.html?school=" + theme;
 }
 
+about_btn = document.getElementById('about_btn');
+if (about_btn != null) {
+    about_btn.href="about.html?school=" + theme;
+}
+
 pricing_btn = document.getElementById('pricing_btn');
 if (pricing_btn != null) {
     pricing_btn.href="index.html?school=" + theme + "#pricing";
