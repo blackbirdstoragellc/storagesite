@@ -1,44 +1,44 @@
 const urlParams = new URLSearchParams(window.location.search);
 const school = urlParams.get('school');
 let theme = 'gmu';
-let innerText = 'Serving George Mason University';
+let innerText = 'Sign up today to reserve your spot at University of Mary Washington';
 
 switch(['umw', 'uva', 'jmu', 'gu', 'mu', 'gwu', 'gmu', 'su', 'umd'].indexOf(school)) {
     case 0:
         theme = 'umw';
-        innerText = 'Serving University of Mary Washington';
+        innerText = 'Sign up today to reserve your spot at University of Mary Washington';
         break;
     case 1:
         theme = 'uva';
-        innerText = 'Serving University of Virginia';
+        innerText = 'Sign up today to reserve your spot at University of Virginia';
         break;
     case 2:
         theme = 'jmu';
-        innerText = 'Serving James Madison University';
+        innerText = 'Sign up today to reserve your spot at James Madison University';
         break;
     case 3:
         theme = 'gu';
-        innerText = 'Serving Georgetown University';
+        innerText = 'Sign up today to reserve your spot at Georgetown University';
         break;
     case 4:
         theme = 'mu';
-        innerText = 'Serving Marymount University';
+        innerText = 'Sign up today to reserve your spot at Marymount University';
         break;
     case 5:
         theme = 'gwu';
-        innerText = 'Serving George Washington University';
+        innerText = 'Sign up today to reserve your spot at George Washington University';
         break;
     case 6:
         theme = 'gmu';
-        innerText = 'Serving George Mason University';
+        innerText = 'Sign up today to reserve your spot at George Mason University';
         break;
     case 7:
         theme = 'su';
-        innerText = 'Serving Shenandoah University';
+        innerText = 'Sign up today to reserve your spot at Shenandoah University';
         break;
     case 8:
         theme = 'umd';
-        innerText = 'Serving University of Maryland';
+        innerText = 'Sign up today to reserve your spot at University of Maryland';
         break;
     default:
         let url = "index.html?school=gmu"; // default to gmu
