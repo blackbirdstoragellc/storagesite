@@ -16,16 +16,16 @@
         "theme",
         "template"
     ],
-    "homepage": "https://github.com/blackbirdstoragellc/storagesite/",
+    "homepage": "https://www.diamondstoragesolutions.com",
     "bugs": {
-        "url": "https://github.com/blackbirdstoragellc/storagesite/",
-        "email": "blackbirdstoragellc@gmail.com"
+        "url": "https://github.com/diamondstoragesolutions/diamondstoragesolutions",
+        "email": "diamondstoragesolutionsllc@gmail.com"
     },
     "license": "MIT",
     "author": "Mark",
     "repository": {
         "type": "git",
-        "url": "https://github.com/blackbirdstoragellc/storagesite.git"
+        "url": "https://github.com/diamondstoragesolutions/diamondstoragesolutions.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.8.2",
