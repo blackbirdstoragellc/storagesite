@@ -125,19 +125,19 @@
             <div class="col-lg-6 h-100 text-center text-lg-left my-auto">
                 <ul class="list-inline mb-2">
                     <li class="list-inline-item">
-                        <a href="about.html">About</a>
+                        <a id="about_btn">About</a>
                     </li>
                     <li class="list-inline-item">&sdot;</li>
                     <li class="list-inline-item">
-                        <a href="#">Contact</a>
+                        <a href="javascript:;" data-toggle="modal" data-target="#contactModal">Contact</a>
                     </li>
                     <li class="list-inline-item">&sdot;</li>
                     <li class="list-inline-item">
-                        <a href="#">Terms of Use</a>
+                        <a href="javascript:;" data-toggle="modal" data-target="#termsModal">Terms of Use</a>
                     </li>
                     <li class="list-inline-item">&sdot;</li>
                     <li class="list-inline-item">
-                        <a href="#">Privacy Policy</a>
+                        <a href="javascript:;" data-toggle="modal" data-target="#privacyModal">Privacy Policy</a>
                     </li>
                 </ul>
                 <p class="text-muted small mb-4 mb-lg-0">Copyright &copy; Diamond Storage Solutions 2020. All Rights Reserved.</p>
@@ -164,6 +164,39 @@
         </div>
     </div>
 </footer>
+
+<!-- Modal -->
+<div class="modal fade" id="contactModal" tabindex="-1" role="dialog" aria-labelledby="contactModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content" style="width: 720px">
+            <div class="modal-body">
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSetp3dyUQpBFMeKaLcD2_lRdpGI91YPgzh-cFQnqe0QEAaehw/viewform?embedded=true" width="640" height="845" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+            </div>
+        </div>
+    </div>
+</div> <!-- /#contactModal -->
+
+<!-- Modal -->
+<div class="modal fade" id="termsModal" tabindex="-1" role="dialog" aria-labelledby="termsModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content" style="width: 720px">
+            <div class="modal-body">
+                Terms of Use Here
+            </div>
+        </div>
+    </div>
+</div> <!-- /#termsModal -->
+
+<!-- Modal -->
+<div class="modal fade" id="privacyModal" tabindex="-1" role="dialog" aria-labelledby="privacyModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content" style="width: 720px">
+            <div class="modal-body">
+                Privacy Policy Here
+            </div>
+        </div>
+    </div>
+</div> <!-- /#privacyModal -->
 
 <!-- Bootstrap core JavaScript -->
 <script src="vendor/jquery/jquery.min.js"></script>
